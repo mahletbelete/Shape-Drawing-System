@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Drawing
 
 In the main class, there are 2 components: `MyToolBar` and `CanvasPane`.
@@ -29,6 +30,10 @@ this class to add a new shape to the canvas and tell the canvas to update.
 - Continue to click on the canvas to add a vertex to the polygon. The polygon only shows up
 on the screen when there are more than 2 vertices (2 clicks).
 - To draw a new polygon after you have done drawing a polygon, press `Enter`.
+=======
+# Shape-Drawing-System
+shape Drawing system using JAVAFX
+>>>>>>> 75f40bd85c6a0afcbc0e52b893d3b288891fa64f
 =======
 # Shape-Drawing-System
 shape Drawing system using JAVAFX
